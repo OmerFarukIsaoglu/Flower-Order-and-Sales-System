@@ -41,7 +41,7 @@ Allows new users to create an account with validation rules.
 
 ---
 
-### 2. Login Frame
+### 2. Login Frame.
 Users and admins log in through separate tabs using JTabbedPane.
 
 ![Login Frame](screenshots/login.png)
