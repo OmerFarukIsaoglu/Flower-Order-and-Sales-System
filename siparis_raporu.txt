@@ -1,0 +1,96 @@
+=== SİPARİŞ RAPORU ===
+Tarih: Wed May 20 14:33:45 GMT+03:00 2026
+
+[kullanici_id:21] omer faruk isaoglu - wafasdf - 1 adet - 28₺ - Hazırlanıyor
+
+Toplam Sipariş: 1
+Toplam: 28₺
+======================
+=== SİPARİŞ RAPORU ===
+Tarih: Wed May 20 14:36:58 GMT+03:00 2026
+
+[kullanici_id:16] omer faruk isaoglu - ali - 4 adet - 136₺ - Hazırlanıyor
+
+Toplam Sipariş: 1
+Toplam: 136₺
+======================
+=== SİPARİŞ RAPORU ===
+Tarih: Wed May 20 15:37:39 GMT+03:00 2026
+
+[kullanici_id:22] omer faruk isaoglu - wafasdf - 3 adet - 84₺ - Hazırlanıyor
+
+Toplam Sipariş: 1
+Toplam: 84₺
+======================
+=== SİPARİŞ RAPORU ===
+Tarih: Wed May 20 15:44:14 GMT+03:00 2026
+
+[kullanici_id:23] a fas - wafasdf - 1 adet - 28₺ - Hazırlanıyor
+
+Toplam Sipariş: 1
+Toplam: 28₺
+======================
+=== SİPARİŞ RAPORU ===
+Tarih: Wed May 20 15:58:22 GMT+03:00 2026
+
+[kullanici_id:3] a fas - wafasdf - 1 adet - 28₺ - Hazırlanıyor
+
+Toplam Sipariş: 1
+Toplam: 28₺
+======================
+=== SİPARİŞ RAPORU ===
+Tarih: Wed May 20 16:19:37 GMT+03:00 2026
+
+[kullanici_id:6] omer faruk isaoglu - wafasdf - 5 adet - 140₺ - Hazırlanıyor
+
+Toplam Sipariş: 1
+Toplam: 140₺
+======================
+=== SİPARİŞ RAPORU ===
+Tarih: Wed May 20 16:19:42 GMT+03:00 2026
+
+[kullanici_id:6] omer faruk isaoglu - ali - 4 adet - 136₺ - Teslim Edildi
+
+Toplam Sipariş: 1
+Toplam: 136₺
+======================
+=== SİPARİŞ RAPORU ===
+Tarih: Wed May 20 16:19:45 GMT+03:00 2026
+
+[kullanici_id:6] omer faruk isaoglu - wafasdf - 1 adet - 28₺ - Iptal Edildi
+
+Toplam Sipariş: 1
+Toplam: 28₺
+======================
+=== SİPARİŞ RAPORU ===
+Tarih: Wed May 20 16:58:06 GMT+03:00 2026
+
+[kullanici_id:9] muhammed isaoglu - ali - 2 adet - 68₺ - Teslim Edildi
+
+Toplam Sipariş: 1
+Toplam: 68₺
+======================
+=== SİPARİŞ RAPORU ===
+Tarih: Wed May 20 19:16:29 GMT+03:00 2026
+
+[kullanici_id:10] Mahmut muhsin - ali - 1 adet - 34₺ - Kargoya Verildi
+
+Toplam Sipariş: 1
+Toplam: 34₺
+======================
+=== SİPARİŞ RAPORU ===
+Tarih: Wed May 20 19:19:28 GMT+03:00 2026
+
+[kullanici_id:10] Mahmut muhsin - kirmzi mamut - 2 adet - 62₺ - Hazirlaniyor
+
+Toplam Sipariş: 1
+Toplam: 62₺
+======================
+=== SİPARİŞ RAPORU ===
+Tarih: Sat Jun 06 15:55:01 GMT+03:00 2026
+
+[kullanici_id:10] Mahmut muhsin - kirmzi mamut - 2 adet - 62₺ - Kargoya Verildi
+
+Toplam Sipariş: 1
+Toplam: 62₺
+======================
